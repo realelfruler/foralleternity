@@ -1,0 +1,185 @@
+@font-face {
+    /* Champignon font by ClaudeP on dafont.com */
+    font-family: Champignon;
+    src: url("champ-font/Champignon.otf");
+}
+
+/* color palettes come from the Sherwin Williams color palette "The Naturalist" at https://www.sherwin-williams.com/content/colorid/palettes/naturalist */
+body {
+    background-color: #9D986F;
+}
+
+h1 {
+    font-family: Champignon;
+    font-size: 100px;
+    color: #DCC797;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+p {
+    color: #EFE8DB;
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+/* makes it so text is hidden in teh background but appears when you hover over it */
+p.secret-info { color: #9D986F; }
+p.secret-info:hover { color: #EFE8DB; }
+
+ol, ul {
+    color: #EFE8DB;
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+/* makes it so spacing between actual long body paragraphs isn't super large */
+.long-paragraph {
+    margin: 15px 0 5px;
+}
+
+/* link style */
+a:link, a:visited {
+    color: #EFE8DB;
+    text-decoration: none
+}
+
+a:hover, a:active {
+    color: #C8BCAB;
+    text-decoration: none;
+}
+
+/* link style for headings */
+a.heading:link, a.heading:visited {
+    color: #DCC797;
+    text-decoration: none
+}
+
+a.heading:hover, a.heading:active {
+    color: #877459;
+    text-decoration: none;
+}
+
+.weird-link { text-indent: 100px; } /* indents links so that they don't overlap with the headings */
+
+/* hidden links! */
+a.hidden:link, a.hidden:visited, a.hidden:hover, a.hidden:active {
+    color: #EFE8DB;
+    text-decoration: none;
+}
+
+/* contains the web page in a flex box that can be divided up into smaller parts */
+.large-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+/* this is where the headings and subheadings of the page will go */
+.heading-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+/* this is where other page content can go, and can have other, smaller flexboxes in it */
+.misc-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.sidebar-left {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 5px;
+}
+
+/* sections inside sidebar-left */
+.sub-sidebar-left {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.sidebar-right {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    padding: 5px;
+    margin: 0 15px;
+}
+
+/* where the images go so they can have subtitles! should only hold one image */
+.image-jail {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+}
+
+/* flexboxes to make a calendar. idk how i'll make this work on phone but we'll figure it out. */
+.calendar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.calendar-head {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    outline: black solid 1px;
+}
+
+.calendar-week {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.calendar-day {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 200px;
+    outline: black solid 1px;
+}
+
+.calendar-day-number {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 10px;
+}
+
+.calendar-day-content {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    width: 100%;
+}
+
+/* phone settings */ 
+@media (max-width: 800px) {
+    h1 { font-size: 50px; }
+    p { font-size: 12px; }
+    .weird-link { text-indent: 50px; }
+    .misc-container { flex-direction: column; width: 100%; flex-wrap: wrap; justify-content: center; align-items: flex-start; }
+    .sidebar-left, .sidebar-right { flex-wrap: wrap; width: 100%; }
+    .image-jail { flex-wrap: wrap; width: 100%; }
+}
