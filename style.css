@@ -179,6 +179,7 @@ a.hidden:link, a.hidden:visited, a.hidden:hover, a.hidden:active {
     h1 { font-size: 50px; }
     p { font-size: 12px; }
     .weird-link { text-indent: 50px; }
+    .large-container { flex-direction: column; width: 100%; flex-wrap: wrap; }
     .misc-container { flex-direction: column; width: 100%; flex-wrap: wrap; justify-content: center; align-items: flex-start; }
     .sidebar-left, .sidebar-right { flex-wrap: wrap; width: 100%; }
     .image-jail { flex-wrap: wrap; width: 100%; }
