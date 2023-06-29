@@ -9,6 +9,26 @@
         <style>
             img { margin: 0 10px; }
             h1 { line-height: 1; padding-top: 15px; }
+
+            .misc-container-two {
+                display: flex;
+                flex-direction: row;
+                width: 100%;
+                justify-content: center;
+            }
+
+            .image-jail-two {
+                display: flex;
+                flex-direction: column;
+                width: 25%;
+                justify-content: center;
+                margin: 10px;
+            }
+
+            @media (max-width: 800px) {
+                .misc-container-two { flex-direction: column; flex-wrap: wrap; align-items: flex-start; }
+                .image-jail-two { flex-wrap: wrap; width: 100%; padding: 10px 0; margin: 0; }
+            }
         </style>
     </head>
 
@@ -32,13 +52,13 @@
                 </div>
             </div>
 
-            <div class="misc-container" style="justify-content: center">
-                <div class="image-jail" style="width: 25%"> <!-- Knox -->
+            <div class="misc-container-two">
+                <div class="image-jail-two"> <!-- Knox -->
                     <img src="images/affeans/knox-portrait.png" alt="A bust portrait of a Brown man smiling. He has long pointed ears, short green hair, and green eyes. He's wearing dangly gold earrings with four-pointed stars at the end, a white button-up shirt, and a tan sweater vest. He's also wearing a gold necklace with a green gem pendant. The background is light blue with a circle of white four-pointed stars around his head. The signature for the artist 'crowesn' is in the top left corner.">
                     <p style="text-align: center"><a href="naranthia/knox-affean.html">Prince Knox Affean</a></p>
                 </div>
 
-                <div class="image-jail" style="width: 25%"> <!-- Guard Fechin -->
+                <div class="image-jail-two"> <!-- Guard Fechin -->
                     <img src="images/guard-fechin.png" alt="A bust portrait of a white man with a sad expression. He has very short purple hair, pointed ears, and blue eyes. He's wearing two silver hoops in the conch of his ears on both sides, a green turtleneck, and a silver breastplate. The background is dark green with a white circle behind the man's head. The signature for the artist 'crowesn' is n the top left corner.">
                     <p style="text-align: center"><a href="dappled-forest/fechin-barasho.html">Captain Fechin Barasho</a></p>
                 </div>

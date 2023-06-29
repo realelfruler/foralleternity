@@ -71,6 +71,20 @@ ol, ul {
     font-size: 18px;
 }
 
+ul {
+    list-style: none;
+}
+
+li {
+    padding-left: 1em;
+    text-indent: -1em;
+}
+
+li:before {
+    content: "-";
+    padding-right: 5px;
+}
+
 /* makes it so spacing between actual long body paragraphs isn't super large */
 .long-paragraph {
     margin: 15px 0 5px;
@@ -245,11 +259,19 @@ a.paper:hover, a.paper:active {
 
 /* phone settings */ 
 @media (max-width: 800px) {
+    /* text */ 
     h1 { font-size: 50px; }
-    p { font-size: 12px; }
+    h2 { font-size: 20px; margin: 10px 0 15px; }
+    h3 { font-size: 15px; margin: 10px 0;}
+    p, .subtitle { font-size: 12px; }
     .weird-link { text-indent: 50px; }
-    .large-container { flex-direction: column; width: 100%; flex-wrap: wrap; }
-    .misc-container { flex-direction: column; width: 100%; flex-wrap: wrap; justify-content: center; align-items: flex-start; }
-    .sidebar-left, .sidebar-right { flex-wrap: wrap; width: 100%; }
+    ul, ol { font-size: 12px; }
+
+    /* flex boxes */
+    img { width: 100%; }
+    .large-container { flex-direction: column; width: 100%; flex-wrap: nowrap; justify-content: center; }
+    .misc-container { flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: flex-start; }
+    .sidebar-left, .sidebar-right { flex-wrap: wrap; width: 100%; margin: 0; padding: 0; }
+    .sub-sidebar-left { width: 100%; justify-content: center; margin: 0; }
     .image-jail { flex-wrap: wrap; width: 100%; }
 }
