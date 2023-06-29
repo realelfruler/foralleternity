@@ -4,21 +4,55 @@
     src: url("champ-font/Champignon.otf");
 }
 
+@font-face {
+    /* Cinzel font by Ndiscovered on dafont.com */
+    font-family: Cinzel;
+    src: url("cinzel-font/Cinzel-Regular.otf");
+}
+
 /* color palettes come from the Sherwin Williams color palette "The Naturalist" at https://www.sherwin-williams.com/content/colorid/palettes/naturalist */
 body {
     background-color: #9D986F;
 }
 
+/* heading and paragraph styles */
 h1 {
     font-family: Champignon;
     font-size: 100px;
     color: #DCC797;
     margin: 0;
-    padding: 0;
+    padding: 60px 0 0;
     line-height: 0;
-    padding-top: 60px;
-    padding-bottom: 0px;
     text-align: center;
+}
+
+h2 {
+    font-family: Cinzel;
+    font-size: 35px;
+    color: #DCC797;
+    margin: 20px 0 25px;
+    padding: 0;
+    line-height: 0.5;
+    text-align: center;
+}
+
+h3 {
+    font-family: Georgia;
+    font-size: 20px;
+    color: #DCC797;
+    margin: 20px 0;
+    padding: 0;
+    line-height: 0.5;
+    text-align: center;
+}
+
+.subtitle {
+    color: #EFE8DB;
+    font-family: Georgia;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: 20px 0 5px;
+    line-height: 0;
 }
 
 p {
