@@ -81,6 +81,41 @@ a.hidden:link, a.hidden:visited, a.hidden:hover, a.hidden:active {
     align-items: flex-start;
 }
 
+/* makes it look like there's a piece of paper in the middle of the page :-) */
+.paper-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+
+.paper-center {
+    width: 75%;
+    min-height: 550px;
+    margin-top: 25px;
+    padding: 48px 48px 23px;
+    background-color: #EFE8DB;
+}
+
+.paper-text {
+    color: #484C49;
+    margin: 0 0 25px;
+}
+
+a.paper:link, a.paper:visited {
+    color: #484C49;
+    text-decoration: none;
+}
+
+a.paper:hover, a.paper:active {
+    color: #5E6259;
+    text-decoration: none;
+}
+
+.paper-sides {
+    width: 12.5%
+}
+
 /* this is where the headings and subheadings of the page will go */
 .heading-container {
     display: flex;
