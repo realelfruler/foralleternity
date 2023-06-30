@@ -61,6 +61,9 @@ p {
     font-size: 18px;
 }
 
+/* line break thing */
+br { margin: 10px; }
+
 /* makes it so text is hidden in teh background but appears when you hover over it */
 p.secret-info { color: #9D986F; }
 p.secret-info:hover { color: #EFE8DB; }
@@ -268,10 +271,13 @@ a.paper:hover, a.paper:active {
     ul, ol { font-size: 12px; }
 
     /* flex boxes */
-    img { width: 100%; }
     .large-container { flex-direction: column; width: 100%; flex-wrap: nowrap; justify-content: center; }
     .misc-container { flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: flex-start; }
     .sidebar-left, .sidebar-right { flex-wrap: wrap; width: 100%; margin: 0; padding: 0; }
     .sub-sidebar-left { width: 100%; justify-content: center; margin: 0; }
     .image-jail { flex-wrap: wrap; width: 100%; }
+
+    /* other stuff */
+    img { width: 100%; }
+    br { margin: 5px; }
 }
