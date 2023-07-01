@@ -5,6 +5,33 @@
         
         <link rel="stylesheet" href="style.css">
         <link rel="icon" type="image/x-icon" href="images/leaves-emoji.png">
+
+        <style>
+            /* makes it so you can put the text NEXT to the image. revolutionary! */
+            .image-break-container {
+                display: flex;
+                flex-direction: row;
+            }
+
+            /* image break box for the image */
+            .image-break-img {
+                display: flex;
+                flex-direction: column;
+                width: 50%;
+                align-items: center;
+            }
+
+            /* image break box for the text */
+            .image-break-p {
+                display: flex;
+                flex-direction: column;
+                width: 50%;
+                padding: 0 15px;
+            }
+
+            /* fixes the map being way too fucking hugelarge */
+            img { width: 100%; object-fit: cover; }
+        </style>
     </head>
 
     <body>
@@ -37,8 +64,16 @@
                     <h3>🙚 King Cillian 🙙</h3>
                     <p class="long-paragraph">In 727, King Cillian Dune formally established the kingdom of the Dappled Forest. He chose the village at the base of Cnoc Sliabh, the Holy Mountain of Ceathodann, the religion of the Seelie fae, to be the new capitol, which he named Caisbaile. He began building a castle at the base of the mountain, carving parts of it directly into the cliffsides. Though there was much outcry from many members of the local temple, including their Shagart, a woman named Siobhan, who found it sacreligious to damage the Holy Mountain in such a way. However, threats made by the militaristic government that King Cillian had begun to form quickly silenced the resistance, and Sliabh Rook was finished in 738.</p>
                     <p class="long-paragraph">While considered a good ruler, King Cillian was well-known for his paranoia. Even before beginning to build his castle, he had ordered a wall be built along the border of his new kingdom, preventing any assailants from entering by land. He had an especially strong fear around invasion by Naranthian elves, and had extra security on the parts of the border shared with their county. This paranoia resulted in much misinformation being spread about the elves in the Dappled Forest, the effect of which can still be seen in the modern day.</p>
-                    <!-- <h3>🙚 Regions 🙙</h3> -->
-                    <!-- Will put something here once we've actually designed the maps -->
+                    
+                    <!-- Regions -->
+                    <h3>🙚 Regions 🙙</h3>
+                    <p class="long-paragraph" style="margin-bottom: 20px">The Dappled Forest is split into 10 Duchys, each ruled over by a Duke or Duchess, or sometimes a Prince or Princess, along with a Scadán who attends to the religious aspects of the Duchy. Each Duchy has specific exports that it's known for, usually specific crops, animal products, foodstuffs, and fabrications like textiles or furniture.</p>
+                    <div class="image-break-container">
+                        <div class="image-break-img"><img src="images/maps/dappled-forest-map.png" alt="A digital drawing done with a warm brown pencil on a pale yellow background. it depicts a large country, divided into 11 sections, with a small island to the south of the country, and a compass on the bottom left of the canvas. 5 of the sections of the country are centered around the capital city of Caisbaile, in the north eastern corner of the country, while the other 5 sections are along he southern coast. Clockwise from the top, the 5 sections surrounding Caisbaile are Giuthas, Sgíreil, Gleann, Uamh, and Cridhe. The other 5 sections, from right to left, are Feòir, Deas, Tonn, Láimh, which is positined above Tonn, and Craoibhe."></div>
+                        <div class="image-break-p">
+                            <!-- Text will go here when I actually want to think of industries for the different Duchys -- <p class="long-paragraph" style="margin-top: -5px"></p> -->
+                        </div>
+                    </div>
                     <br></br>
 
                     <!-- Religion -->
