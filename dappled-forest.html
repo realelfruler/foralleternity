@@ -11,6 +11,9 @@
             .image-break-container {
                 display: flex;
                 flex-direction: row;
+                align-items: center;
+                padding: 0;
+                margin: 0;
             }
 
             /* image break box for the image */
@@ -25,12 +28,19 @@
             .image-break-p {
                 display: flex;
                 flex-direction: column;
+                justify-content: flex-start;
+                align-content: flex-start;
                 width: 50%;
-                padding: 0 15px;
+                height: 100%;
+                padding: 0;
+                margin: 0; /*i swear to god i'm going to kill */
             }
 
             /* fixes the map being way too fucking hugelarge */
             img { width: 100%; object-fit: cover; }
+
+            /* space between list items */
+            li { padding-bottom: 10px; }
         </style>
     </head>
 
@@ -71,7 +81,18 @@
                     <div class="image-break-container">
                         <div class="image-break-img"><img src="images/maps/dappled-forest-map.png" alt="A digital drawing done with a warm brown pencil on a pale yellow background. it depicts a large country, divided into 11 sections, with a small island to the south of the country, and a compass on the bottom left of the canvas. 5 of the sections of the country are centered around the capital city of Caisbaile, in the north eastern corner of the country, while the other 5 sections are along he southern coast. Clockwise from the top, the 5 sections surrounding Caisbaile are Giuthas, Sgíreil, Gleann, Uamh, and Cridhe. The other 5 sections, from right to left, are Feòir, Deas, Tonn, Láimh, which is positined above Tonn, and Craoibhe."></div>
                         <div class="image-break-p">
-                            <!-- Text will go here when I actually want to think of industries for the different Duchys -- <p class="long-paragraph" style="margin-top: -5px"></p> -->
+                            <ul>
+                                <li><b>Feòir:</b></li>
+                                <li><b>Deas:</b></li>
+                                <li><b>Tonn:</b></li>
+                                <li><b>Craoibhe:</b></li>
+                                <li><b>Láimh:</b></li>
+                                <li><b>Gleann:</b></li>
+                                <li><b>Uamh:</b></li>
+                                <li><b>Cridhe:</b></li>
+                                <li><b>Giuthas:</b></li>
+                                <li style="padding-bottom: 0"><b>Sgíreil:</b></li>
+                            </ul>
                         </div>
                     </div>
                     <br></br>
