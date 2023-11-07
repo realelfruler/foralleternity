@@ -98,7 +98,7 @@ li:before {
 /* link style */
 a:link, a:visited {
     color: #EFE8DB;
-    text-decoration: none
+    text-decoration: underline;
 }
 
 a:hover, a:active {
