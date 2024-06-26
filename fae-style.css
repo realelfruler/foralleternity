@@ -66,7 +66,7 @@ img { object-fit: cover; }
 /* line break thing */
 br { margin: 10px; }
 
-/* makes it so text is hidden in teh background but appears when you hover over it */
+/* makes it so text is hidden in the background but appears when you hover over it */
 p.secret-info { color: #9D986F; }
 p.secret-info:hover { color: #EFE8DB; }
 
@@ -109,7 +109,7 @@ a:hover, a:active {
 /* link style for headings */
 a.heading:link, a.heading:visited {
     color: #DCC797;
-    text-decoration: none
+    text-decoration: none;
 }
 
 a.heading:hover, a.heading:active {
@@ -166,7 +166,7 @@ a.paper:hover, a.paper:active {
 }
 
 .paper-sides {
-    width: 12.5%
+    width: 12.5%;
 }
 
 /* this is where the headings and subheadings of the page will go */
@@ -184,6 +184,17 @@ a.paper:hover, a.paper:active {
     flex-direction: row;
     width: 100%;
     justify-content: space-between;
+}
+
+/* smaller container within misc-container */
+.small-misc {
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    justify-content: start;
+    align-content: space-between;
+    margin-left: 5px;
+    padding: 0;
 }
 
 .sidebar-left {
