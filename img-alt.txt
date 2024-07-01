@@ -1,0 +1,66 @@
+IMAGES
+Affeans
+    adelio-portrait.png: A portrait of a man with short white hair and brown skin on a light blue background. He has pointy ears and green eyes, and is wearing a gold necklace with a green stone, a green collared shirt, and a brown sweater vest. He has a neutral expression.
+    eulalia-portrait.png: A portrait of a fat woman with long green hair and dark brown skin on a light blue background. She has pointy ears with gold ear covers, and green eyes, and she is smiling slightly. She is wearing a gold necklace with a green stone. and a white sleeveless top.
+    knox-portrait.png: A portrait of a man with short green hair and brown skin on a light blue background. He has pointy ears and green eyes, and he is smiling slightly. He is wearing dangly gold star-shaped earrings, a gold necklace with a green stone, a white collared shirt, and a light brown sweater vest.
+    rowan-portrait.png: A portrait of a person with short pink hair and pale skin on a gray background. They have small pointy ears and blue eyes, and are smiling slightly. He's wearing small gold earrings, a high-necked green shirt, a light brown sweater, a gold necklace with a green stone, and a green cape.
+
+Dunes
+    cedar-portrait.png: A portrait of an antlered man with dark blue hair and a dark blue beard and mustache on a light green background. He has pale skin, small pointy ears, blue eyes, and small silver glasses. He's wearing a white collared shirt and a green jabot. He's smiling slightly.
+    chrys-portrait.png: A portrait of a pale-skinned woman with long purple hair on a light green background. She has small pointy ears and green eyes. She is wearing rectangular silver earrings, several silver necklaces, and a v-necked pink shirt with gold details around the edge.
+    dune-fam-portrait.jpg: A painting of two adults and a baby in front of a dark green background. One adult, a man with light blue hair, brown skin, purple eyes, and a scar diagonally across hsi face, is standing. He's wearing a green shirt and brown pants. The other adult, a woman, is sitting and holding a baby with purple hair that is dressed in a white bonnet and matching gown. The woman has purple hair and gold hoop earrings, and is wearing a large pink ballgown. All three have pointed ears and neutral expressions.
+    fechin-portrait.png: A portrait of a pale-skinned man with medium-length purple hair and antlers in front of a light creen background. He has blue eyes, small pointy ears, and circular silver glasses, and is wearing a green shirt and a gold necklace with a green stone. He has a neutral expression
+    iris-portrait.png: A portrait of a pale-skinned woman with long purple hair in front of a light green background. She has wide green eyes, small pointed ears with silver ear covers, and circular glasses. She is wearing a gray-blue turtleneck and a sheer black over-shirt. She is smiling and showing her teeth.
+    oisin-portrait.png: A portrait of a pale-skinned man with short gray hair and antlers. He has small pointy ears and light blue eyes, with a neutral expression. He is wearing rectangular silver glasses, a brown vest, white collared shirt, and a green jabot.
+    rian-portrait.png: A portrait of a man with tanned skin and short white hair on a light blue background. He has long pointy ears, blue eyes with black sclera, and scales on his defined cheekbones. He is wearing gold hoop earrings, a white collared shirt, and a white ribbon fastened with a blue gem.
+    rozzi-portrait.png: A portrait of a Black woman with dark red hair on a pink background. She has small pointy ears, red eyes, and is smiling. She is wearing silver ear cuffs and a sheer red top with gold star details.
+    virila-portrait.png: A portrait of a pale-skinned woman with white braided hair on a light green background with a sun emblem. She has small pointy ears with silver ear covers and blue eyes. She is wearing silver oval glasses, a silver necklace, a green turtleneck, and a blue and gold shawl. She is smiling slightly.
+
+Elf Teens
+    john-portrait.png: A portrait of a boy with brown skin on a light gray background. He has black hair, pointed ears, and yellow eyes, and he's smiling, showing his teeth. He is wearing circular silver sunglasses and a blue shirt.
+    noel-portrait.png: A portrait of a boy with brown skin on a light orange background. He has dark blue hair, pointed ears, and yellow eyes, and he's smiling slightly. He is earing circluar silver sunglasses, a light blue blouse, and a brown scarf with gold details.
+    song-portrait.png: A portrait of a girl with light skin and short white hair on a light pink background. She has several gold earrings in her ears, as well as a gold spetum ring and gold snakebites. She has pointed ears, black eyes, and is wearing a light blue sleeveless turtleneck and a black scarf with gold details.
+
+Elysium
+    ha-eun-portrait.png: A portrait of a woman with white hair and blue skin on a dark gray background. She has white eyes with black sclera, and is smiling slightly. She is wearing a high-necked blue and silver wrap shirt, a silver necklace with stars, and a blue and gold shawl.
+    haneul-portrait.png: A portrait of a boy with short dark blue hair and light blue skin with white freckles. He has orange eyes with black sclera, and a confused look on his face. He's wearing rectangular gold earring, small pointy ears, several gold earrings, and a v-necked white shirt with gold details.
+    hei-ran-portrait.png: A portrait of a fat woman with dark purple skin and horns, and long black hair on a light gray background. She is squinting, and has purple eyes with black sclera. She also has pointed ears, with silver hoops, and she's wearing a black shirt with a blue sweater.
+    iseul-portrait.png: A portrait of a woman with dark purple hair and horns and long white hair on a light yellow background. She has white freckles, black eyes, and a X shaped scar on her face. She also has pointed ears, with black metal ear covers, a black septum hoop, and black cheek piercings. She's wearing a black necklace, white blouse, black armor, and a blue and gold scarf.
+
+Goddess
+
+Humans
+
+Maps
+
+Mother Moon
+
+Viverras
+
+affean-crest.png
+
+calla-portrait.png
+
+df-flag.png
+
+dune-crest.png
+
+guard-fechin.png
+
+laoghaire.png
+
+lcdm-flag.png
+
+leaves-emoji.png
+
+moon-cycle.png
+
+n-flag.png
+
+nest-dynamics.png
+
+new-moon-emoji.png
+
+siren-anatomy.png
+
+siren-lifespan.png
