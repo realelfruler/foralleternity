@@ -47,6 +47,11 @@ Humans
     fish-portrait.png: A portrait of a young man with tan skin, freckles, thick eyebrows, and short wavy brown hair. He has brown eyes, a scar on his forehead, a scar over his nose, and light stubble. He is wearing silver hoop earrings and a white tanktop.
     siobhan-portrait.png: A portrait of a woman with brown skin, eyebags, and brown hair pulled into a bun. She looks concerned, and is wearing a blue blouse, a silver necklace with a blue gemstone, and silver hoop earrings.
 
+Humans
+    boudicca-portrait.png: A portrait of an older woman with brown skin, hazel eyes, and vitiligo patches around her eyes, nose, and mouth, with a neutral expression. She has white hair in long braids, pointed ears with gold ear covers, and is wearing a brown turtleneck with a red and gold scarf.
+    grace-portrait.png: A portrait of a young woman with brown skin, green eyes, and vitiligo around her eyes, nose, and mouth. She is smiling, and has pointed ears and antlers. Her wavy brown hair is pulled back into pigtails. She is wearing three gold earrings on each ear, a high necked green shirt, and a light beige sweater.
+    octavie-portrait.png: A portrait of an older woman with light skin and blue eyes, smiling slightly. She has dark gray hair half pulled into a bun, pointed ears, and antlers. She's wearing silver hoop earrings, black glasses with small round lenses, a white choker, and a white off-the-shoulder top with a ruffled edge.
+
 Maps
     dappled-forest-map.png: A map of a coastal country with some nearby islands on a cream colored background. It has five counties around the circular Caisbaile, labeled clockwise from the top as Giuthas, Sgíreil, Gleann, Uamh, and Cridhe. Below this are five more counties which are, from left to right, Feóir, Deas, Tonn, Láimh, and Craoibhe.
     tir-na-nog-map.png: A map of a continent, as well as several different island nations. There is the Outer Lands in the top left corner, with Sunlight Village labelled on the edge of the Dappled Forest (Capitol: Caisbaile). Next to the Dappled Forest is the large kingdom of Naranthia (Capitol: Kolona). South of Naranthia is a large peninsula called Coaste de Melgrano. South of the Dappled Forest is the Verdonada Sea, which is between that and Finapor. At the bottom of the map is a small collection of islands called the Fulican Archipelago.
