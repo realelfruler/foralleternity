@@ -81,6 +81,8 @@ df-flag.png: A green flag with a thin blue stripe on the left and a thin gold st
 
 dune-crest.png: A blue shield-shaped family crest with a small yellow section at the top. At the top is a phrase written in runes. In the center is a fox, which is in front of a ring of ivy branches. Below the fox is a mace and a nail crossed over each other in an X shape.
 
+ephemera-portrait: A portrait of a woman with dark brown skin, green hair, green eyes, and a slight frown. She has long pointed ears with gold ear covers, a gold necklace with a green gem, and she's wearing an off-the-shoulder blue blouse with a ruffled edge.
+
 guard-fechin.png: A portrait of a young man with pale skin, blue eyes and very short purple hair. He has pointed ears with silver hoops, and is wearing a green turtleneck and a silver chestplate. He has a neutral expression.
 
 laoghaire.png: A portrait of a young man with brown skin, orange hair, brown eyes, and large antlers. He has a concerned expression. He has small pointed ears, and is wearing a black shirt with a high neck and a black cloak. There is a yellow circle behind his head.
