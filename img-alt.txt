@@ -82,6 +82,8 @@ affean-crest.png: A shield-shaped family crest divided into three vertical secti
 
 calla-portrait.png: A portrait of a young woman with pale skin and a skeptical expression. She has shoulder length pink hair, pointed ears, and purple eyes. She is wearing dangly silver star earrings, a blue choker, and a blue off-the-shoulder top.
 
+declan-portrait.png: A portrait of a man with light skin, brown eyes, and an unamused expression. He has long orange hair, brown eyes, pointed ears with gold ear covers, large brown antlers, and red dragonfly-like wings. He is wearing white wraps all over his body, and red striped face paint.
+
 df-flag.png: A green flag with a thin blue stripe on the left and a thin gold stripe on the right. In the center are an olive branch and a sword crossed over each other in an X shape.
 
 dune-crest.png: A blue shield-shaped family crest with a small yellow section at the top. At the top is a phrase written in runes. In the center is a fox, which is in front of a ring of ivy branches. Below the fox is a mace and a nail crossed over each other in an X shape.
@@ -107,6 +109,8 @@ new-moon-emoji.png: The Apple new moon emoji.
 siren-anatomy.png: A drawing of a person's torso from the back. They have gils on their neck and ribs, and a line of light blue sensors, circles with wide bases, along their spine.
 
 siren-lifespan.png: Two timelines aligned with each other. The top, in green, is humans, with the life stages of baby, toddler, child, adolescent, adult, middle aged, and old. The bottom, in blue, is sirens, with the life stages of fry, fingerling, pup, smolt, adult, and elder.
+
+tadhg-portrait.png: A portrait of a young man with albinism. He has long pointed ears with gold ear covers, light blue eyes, short white hair, small fangs, and short antlers. He's wearing oval-shaped silver sunglasses and a blue poet's shirt.
 
 veronica-portrait.png: A portrait of a fat woman with dark brown skin and curly dark purple hair, smiling slightly. She has long pointed ears and green eyes, and is wearing silver earrings, a gold necklace with a green stone, and a green tanktop.
 
