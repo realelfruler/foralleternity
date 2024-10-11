@@ -59,7 +59,7 @@ Hywels
 
 Maps
     dappled-forest-map.png: A map of a coastal country with some nearby islands on a cream colored background. It has five counties around the circular Caisbaile, labeled clockwise from the top as Giuthas, Sgíreil, Gleann, Uamh, and Cridhe. Below this are five more counties which are, from left to right, Feóir, Deas, Tonn, Láimh, and Craoibhe.
-    ghaniun-bil-alwan-map.png: A map of two islands with a compas in the top left corner. In the top right corner, the map is titled "غَني بالألوان" with the subtitle "Ghaniun Bil-alwan." The northern island is small, and labeled عَمْود/Eamwd. The southern island is large and divided into four parts. Going clockwise from the top left are الياقوت/Alyaqut, which has a smaller label in the northern area for ميناء الياقوت/Port of Alyaqut; قوس/Qaws; عَسَل/Easal; and الصنوبر/Alsanawbar.
+    ghaniun-bil-alwan-map.png: A map of two islands with a compass in the top left corner. In the top right corner, the map is titled "غَني بالألوان" with the subtitle "Ghaniun Bil-alwan." The northern island is small, and labeled عَمْود/Eamwd. The southern island is large and divided into four parts. Going clockwise from the top left are الياقوت/Alyaqut, which has a smaller label in the northern area for ميناء الياقوت/Port of Alyaqut; قوس/Qaws; عَسَل/Easal; and الصنوبر/Alsanawbar.
     tir-na-nog-map.png: A map of a continent, as well as several different island nations. There is the Outer Lands in the top left corner, with Sunlight Village labelled on the edge of the Dappled Forest (Capitol: Caisbaile), off the coast of which is an island labeled Famhair. Next to the Dappled Forest is the large kingdom of Naranthia (Capitol: Kolona). South of Naranthia is a large peninsula called Coaste de Melgrano, and southeast of that is Ghaniun Bial'alwan. South of the Dappled Forest is the Verdonada Sea, which is between that and Finapor. At the bottom of the map is a small collection of islands called the Fulican Archipelago.
 
 Mother Moon
@@ -89,6 +89,8 @@ declan-portrait.png: A portrait of a man with light skin, brown eyes, and an una
 df-flag.png: A green flag with a thin blue stripe on the left and a thin gold stripe on the right. In the center are an olive branch and a sword crossed over each other in an X shape.
 
 dune-crest.png: A blue shield-shaped family crest with a small yellow section at the top. At the top is a phrase written in runes. In the center is a fox, which is in front of a ring of ivy branches. Below the fox is a mace and a nail crossed over each other in an X shape.
+
+e-flag.jpg: A flag with a blueish gray background. In the center is a black crescent shape facing upwards, with a white circle that has a black border in the curved part. Above the circle are three triangles, each with three lines at the bottom. The leftmost triangle has three unbroken lines. The middle triangle has two broken line and one unbroken line, and the rightmost triangle has three broken lines.
 
 ephemera-portrait: A portrait of a woman with dark brown skin, green hair, green eyes, and a slight frown. She has long pointed ears with gold ear covers, a gold necklace with a green gem, and she's wearing an off-the-shoulder blue blouse with a ruffled edge.
 
