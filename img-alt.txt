@@ -59,6 +59,7 @@ Hywels
 
 Maps
     dappled-forest-map.png: A map of a coastal country with some nearby islands on a cream colored background. It has five counties around the circular Caisbaile, labeled clockwise from the top as Giuthas, Sgíreil, Gleann, Uamh, and Cridhe. Below this are five more counties which are, from left to right, Feóir, Deas, Tonn, Láimh, and Craoibhe.
+    ghaniun-bil-alwan-map.png: A map of two islands with a compas in the top left corner. In the top right corner, the map is titled "غَني بالألوان" with the subtitle "Ghaniun Bil-alwan." The northern island is small, and labeled عَمْود/Eamwd. The southern island is large and divided into four parts. Going clockwise from the top left are الياقوت/Alyaqut, which has a smaller label in the northern area for ميناء الياقوت/Port of Alyaqut; قوس/Qaws; عَسَل/Easal; and الصنوبر/Alsanawbar.
     tir-na-nog-map.png: A map of a continent, as well as several different island nations. There is the Outer Lands in the top left corner, with Sunlight Village labelled on the edge of the Dappled Forest (Capitol: Caisbaile), off the coast of which is an island labeled Famhair. Next to the Dappled Forest is the large kingdom of Naranthia (Capitol: Kolona). South of Naranthia is a large peninsula called Coaste de Melgrano, and southeast of that is Ghaniun Bial'alwan. South of the Dappled Forest is the Verdonada Sea, which is between that and Finapor. At the bottom of the map is a small collection of islands called the Fulican Archipelago.
 
 Mother Moon
