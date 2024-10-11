@@ -95,6 +95,11 @@ li:before {
     margin: 15px 0 5px;
 }
 
+/* text for sidebars on country pages */
+.fast-facts {
+    margin: 5px 0;
+}
+
 /* link style */
 a:link, a:visited {
     color: #EFE8DB;
