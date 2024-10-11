@@ -22,6 +22,7 @@ Elf Teens
     song-portrait.png: A portrait of a girl with light skin and short white hair on a light pink background. She has several gold earrings in her ears, as well as a gold spetum ring and gold snakebites. She has pointed ears, black eyes, and is wearing a light blue sleeveless turtleneck and a black scarf with gold details.
 
 Elysium
+    elysium-seal.jpg: A drawing of a royal seal on a white background. The outside border is a blueish purple with a rough edge. In the center, read vertically from right to left, are the characters 大달國璽 drawn stylistically.
     ha-eun-portrait.png: A portrait of a woman with white hair and blue skin on a dark gray background. She has white eyes with black sclera, and is smiling slightly. She is wearing a high-necked blue and silver wrap shirt, a silver necklace with stars, and a blue and gold shawl.
     haneul-portrait.png: A portrait of a boy with short dark blue hair and light blue skin with white freckles. He has orange eyes with black sclera, and a confused look on his face. He's wearing rectangular gold earring, small pointy ears, several gold earrings, and a v-necked white shirt with gold details.
     hei-ran-portrait.png: A portrait of a fat woman with dark purple skin and horns, and long black hair on a light gray background. She is squinting, and has purple eyes with black sclera. She also has pointed ears, with silver hoops, and she's wearing a black shirt with a blue sweater.
