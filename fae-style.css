@@ -12,7 +12,7 @@
 
 /* color palettes come from the Sherwin Williams color palette "The Naturalist" at https://www.sherwin-williams.com/content/colorid/palettes/naturalist */
 body {
-    background-color: #9D986F;
+    background-color: #7b7756;
 }
 
 /* heading and paragraph styles */
@@ -67,7 +67,7 @@ img { width: 100% }
 br { margin: 10px; }
 
 /* makes it so text is hidden in the background but appears when you hover over it */
-p.secret-info { color: #9D986F; }
+p.secret-info { color: #7b7756; }
 p.secret-info:hover { color: #EFE8DB; }
 
 ol, ul {
